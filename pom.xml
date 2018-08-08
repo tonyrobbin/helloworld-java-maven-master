@@ -40,7 +40,7 @@
   
 <distributionManagement>
     <repository>
-        <id>00321bca3728</id>
+        <id>00321bca3458</id>
         <name>00321bca3728-releases</name>
         <url>http://52.66.174.211:8081/nexus/content/repositories/demo/</url>
     </repository>
